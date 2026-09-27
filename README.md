@@ -66,6 +66,4 @@ Ce projet m’a permis de développer et de mettre en pratique des compétences 
 
 **Business Intelligence · Data Analysis · Data Visualization · DAX · Power Query · Data Modeling · KPI · Data Storytelling**
 
-**Farah Bouhjar**
-
 Projet réalisé dans le cadre de mon portfolio en **Business Intelligence & Data Analysis**. par **Farah Bouhjar**
