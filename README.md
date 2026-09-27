@@ -47,7 +47,20 @@ Le rapport suit une progression de l’analyse, de la vue globale jusqu’aux d�
 
 Cette organisation permet de commencer par les principaux KPI puis d’approfondir l’analyse selon le besoin.
 
-## Compétences mises en pratique :
+##  Aperçu du dashboard
+
+# Page de couverture : (images/page1.png)
+
+# Vue d'ensemble : (images/page2.png)
+
+# Analyse des ventes : (images/page3.png)
+
+# Analyse des produits : (images/page4.png)
+
+# Analyse détaillée : (images/page5.png)
+
+# Analyse de la rentabilité : (images/page6.png)
+# Compétences mises en pratique :
 
 Ce projet m’a permis de développer et de mettre en pratique des compétences en :
 
