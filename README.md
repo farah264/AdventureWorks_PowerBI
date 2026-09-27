@@ -49,17 +49,17 @@ Cette organisation permet de commencer par les principaux KPI puis d’approfond
 
 ##  Aperçu du dashboard
 
-# Page de couverture : (images/page1.png)
+ Page de couverture : (images/page1.png)
 
-# Vue d'ensemble : (images/page2.png)
+ Vue d'ensemble : (images/page2.png)
 
-# Analyse des ventes : (images/page3.png)
+ Analyse des ventes : (images/page3.png)
 
-# Analyse des produits : (images/page4.png)
+ Analyse des produits : (images/page4.png)
 
-# Analyse détaillée : (images/page5.png)
+ Analyse détaillée : (images/page5.png)
 
-# Analyse de la rentabilité : (images/page6.png)
+ Analyse de la rentabilité : (images/page6.png)
 # Compétences mises en pratique :
 
 Ce projet m’a permis de développer et de mettre en pratique des compétences en :
